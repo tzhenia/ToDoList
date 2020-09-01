@@ -1,0 +1,31 @@
+.DS_Store
+.idea/
+.idea/*
+.mvn/
+/target
+/out
+*.class
+*.war
+*.jar
+*.ear
+*iml
+
+# IDE-specific:
+.idea/
+.settings/
+.vscode/
+.classpath
+.project
+*.iml
+
+# Build
+build/
+out/
+bin
+
+# Tools
+.gradle/
+gradle/*
+gradle/
+gradlew
+gradlew.bat
